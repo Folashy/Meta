@@ -23,7 +23,28 @@ width: 713px;
 height: 400.08px;
 
 }
+.pinky{
+/* font-style: normal; */
+font-weight: 400;
+font-size: 45px;
+line-height: 140%;
+letter-spacing: -0.02em;
+color: #434343;
+/* margin-bottom:48px */
+}
+span {
+color: #A02279;
+}
+p {
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+color: #434343;
+height: 105px;
+width: 636px;
 
+}
 .pics {
 width: 476px;
 height: 459px;
